@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.header1{
+    background-color: darkslateblue;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 10px;
+}
+
+.fotojamal{
+    height: 60px;
+    border-radius: 100%;
+    width: 60px;
+    padding-left: 15px;
+}
+
+.button1{
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px 20px; 
+    font-family: Outfit;
+}
+
+.botaoa{
+color: white;
+text-decoration: none;
+}
+
+.div1{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+
+.div2{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    padding-left: 1300px;
+}
