@@ -14,7 +14,7 @@ body{
 }
 
 footer {
-  display: flex;
+  display: flex-wrap;
   justify-content: space-around;
   align-items: center;
   background-color: #333;
@@ -25,7 +25,8 @@ footer {
 }
 
 ul{
-  display: flex;
+  display: flex-wrap;
   color: aliceblue;
 
 }
+
